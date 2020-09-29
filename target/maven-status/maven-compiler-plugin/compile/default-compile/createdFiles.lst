@@ -1,0 +1,7 @@
+com/rapid/featurerequest/model/ProductArea.class
+com/rapid/featurerequest/model/Client.class
+com/rapid/featurerequest/service/FeatureService.class
+com/rapid/featurerequest/dao/FeatureRepository.class
+com/rapid/featurerequest/FeatureRequestApplication.class
+com/rapid/featurerequest/model/Feature.class
+com/rapid/featurerequest/rest/FeatureController.class
