@@ -1,4 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: com.rapid.featurerequest.FeatureRequestApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.444 s - in com.rapid.featurerequest.FeatureRequestApplicationTests
+Tests run: 5, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 6.023 s <<< FAILURE! - in com.rapid.featurerequest.FeatureRequestApplicationTests
+whenSaved_thenFindsByTitle  Time elapsed: 0.022 s  <<< ERROR!
+org.springframework.dao.IncorrectResultSizeDataAccessException: query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+	at com.rapid.featurerequest.FeatureRequestApplicationTests.whenSaved_thenFindsByTitle(FeatureRequestApplicationTests.java:69)
+Caused by: javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+	at com.rapid.featurerequest.FeatureRequestApplicationTests.whenSaved_thenFindsByTitle(FeatureRequestApplicationTests.java:69)
+

@@ -52,7 +52,7 @@ Product Area: A selection list of product areas (use 'Policies', 'Billing', 'Cla
 	public Feature(String title, String description, String client, Integer clientPriority, Date targetDate,
 			String productArea) throws IllegalArgumentException {
 		//super();
-		if(this.title == null) {
+		if(title == null) {
 			throw new IllegalArgumentException();
 		}
 		this.title = title;

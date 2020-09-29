@@ -1,7 +1,7 @@
-/Users/shahzad/Documents/DevRootWorkload4/feature-request/src/main/java/com/rapid/featurerequest/model/ProductArea.java
-/Users/shahzad/Documents/DevRootWorkload4/feature-request/src/main/java/com/rapid/featurerequest/model/Feature.java
-/Users/shahzad/Documents/DevRootWorkload4/feature-request/src/main/java/com/rapid/featurerequest/rest/FeatureController.java
-/Users/shahzad/Documents/DevRootWorkload4/feature-request/src/main/java/com/rapid/featurerequest/service/FeatureService.java
-/Users/shahzad/Documents/DevRootWorkload4/feature-request/src/main/java/com/rapid/featurerequest/dao/FeatureRepository.java
-/Users/shahzad/Documents/DevRootWorkload4/feature-request/src/main/java/com/rapid/featurerequest/FeatureRequestApplication.java
-/Users/shahzad/Documents/DevRootWorkload4/feature-request/src/main/java/com/rapid/featurerequest/model/Client.java
+/Users/shahzad/Documents/DevRootFeatureRequest/feature-request-api/src/main/java/com/rapid/featurerequest/FeatureRequestApplication.java
+/Users/shahzad/Documents/DevRootFeatureRequest/feature-request-api/src/main/java/com/rapid/featurerequest/model/ProductArea.java
+/Users/shahzad/Documents/DevRootFeatureRequest/feature-request-api/src/main/java/com/rapid/featurerequest/service/FeatureService.java
+/Users/shahzad/Documents/DevRootFeatureRequest/feature-request-api/src/main/java/com/rapid/featurerequest/model/Feature.java
+/Users/shahzad/Documents/DevRootFeatureRequest/feature-request-api/src/main/java/com/rapid/featurerequest/rest/FeatureController.java
+/Users/shahzad/Documents/DevRootFeatureRequest/feature-request-api/src/main/java/com/rapid/featurerequest/dao/FeatureRepository.java
+/Users/shahzad/Documents/DevRootFeatureRequest/feature-request-api/src/main/java/com/rapid/featurerequest/model/Client.java
